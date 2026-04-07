@@ -1,0 +1,59 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="44" y1="31" x2="1226" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#0B3B3B"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 78) rotate(90) scale(165 210)">
+      <stop stop-color="#14B8A6" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(236 302) rotate(90) scale(132 270)">
+      <stop stop-color="#F59E0B" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="blur" x="-40" y="-40" width="1360" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="20"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="78" rx="220" ry="165" fill="url(#glowA)"/>
+  <ellipse cx="236" cy="302" rx="290" ry="132" fill="url(#glowB)"/>
+
+  <g opacity="0.9" filter="url(#blur)">
+    <path d="M905 112C965 85 1032 95 1095 131C1144 159 1187 168 1228 163" stroke="#2DD4BF" stroke-width="6" stroke-linecap="round"/>
+    <path d="M872 148C932 121 997 130 1058 166C1104 193 1151 201 1192 196" stroke="#F59E0B" stroke-opacity="0.58" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <rect x="54" y="48" width="535" height="264" rx="24" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="84" y="118" fill="#E2E8F0" font-size="24" font-weight="600" font-family="Segoe UI, Arial, sans-serif">AKIF T.</text>
+  <text x="84" y="170" fill="#FFFFFF" font-size="50" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Systems Engineering</text>
+  <text x="84" y="217" fill="#FFFFFF" font-size="50" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Embedded Software</text>
+  <text x="84" y="262" fill="#CBD5E1" font-size="24" font-weight="500" font-family="Segoe UI, Arial, sans-serif">Traceability  /  Verification  /  RTOS  /  Guidance  /  Tracking  /  RF</text>
+
+  <rect x="84" y="282" width="132" height="34" rx="17" fill="#0F766E"/>
+  <rect x="226" y="282" width="113" height="34" rx="17" fill="#F59E0B" fill-opacity="0.95"/>
+  <rect x="349" y="282" width="126" height="34" rx="17" fill="#1D4ED8"/>
+  <text x="116" y="304" fill="#FFFFFF" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Portfolio</text>
+  <text x="255" y="304" fill="#0F172A" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">C / Python</text>
+  <text x="381" y="304" fill="#FFFFFF" font-size="16" font-weight="700" font-family="Segoe UI, Arial, sans-serif">TS / JS</text>
+
+  <rect x="690" y="60" width="536" height="240" rx="24" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  <text x="726" y="102" fill="#E2E8F0" font-size="20" font-weight="600" font-family="Consolas, Menlo, monospace">portfolio.signal</text>
+  <text x="726" y="145" fill="#2DD4BF" font-size="22" font-weight="600" font-family="Consolas, Menlo, monospace">&gt; domains = ["systems", "embedded", "simulation"]</text>
+  <text x="726" y="180" fill="#F8FAFC" font-size="22" font-weight="600" font-family="Consolas, Menlo, monospace">&gt; languages = ["C", "Python", "TypeScript", "JavaScript"]</text>
+  <text x="726" y="215" fill="#CBD5E1" font-size="22" font-weight="600" font-family="Consolas, Menlo, monospace">&gt; focus = ["traceability", "verification", "real-time", "control"]</text>
+
+  <rect x="726" y="242" width="144" height="18" rx="9" fill="#0F766E"/>
+  <rect x="882" y="242" width="101" height="18" rx="9" fill="#F59E0B"/>
+  <rect x="995" y="242" width="84" height="18" rx="9" fill="#1D4ED8"/>
+  <rect x="1091" y="242" width="99" height="18" rx="9" fill="#7C3AED"/>
+
+  <text x="726" y="289" fill="#94A3B8" font-size="18" font-weight="500" font-family="Segoe UI, Arial, sans-serif">Portfolio-grade repositories designed to look structured, technical, and reviewable.</text>
+</svg>
