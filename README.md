@@ -1,29 +1,22 @@
 <h1 align="center">Akif Kaya</h1>
-<p align="center"><strong>Systems Engineering • Embedded Software • Defense-Style Simulation</strong></p>
+<p align="center"><strong>Systems Engineering • Embedded Software • Technical Simulation</strong></p>
 
 <p align="center">
   <img src="./assets/profile-header.svg" alt="Akif Kaya profile header" width="100%" />
 </p>
 
 <p align="center">
-  Building portfolio-grade repositories around traceability, verification readiness,
-  firmware architecture, RTOS behavior, guidance laws, tracking, and RF analysis.
+  I build portfolio-grade repositories around traceability, verification readiness,
+  host-buildable firmware, RTOS behavior, guidance, and tracking.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems_Engineering-0f766e?style=for-the-badge&logo=bookstack&logoColor=white" alt="Systems Engineering" />
-  <img src="https://img.shields.io/badge/Embedded_Software-0b3b3b?style=for-the-badge&logo=c&logoColor=white" alt="Embedded Software" />
-  <img src="https://img.shields.io/badge/Technical_Simulation-1e293b?style=for-the-badge&logo=python&logoColor=white" alt="Technical Simulation" />
-  <img src="https://img.shields.io/badge/Verification_&_Traceability-334155?style=for-the-badge&logo=githubactions&logoColor=white" alt="Verification and Traceability" />
+  <img src="https://img.shields.io/badge/Systems_Engineering-0f766e?style=flat-square" alt="Systems Engineering" />
+  <img src="https://img.shields.io/badge/Embedded_Software-1d4ed8?style=flat-square" alt="Embedded Software" />
+  <img src="https://img.shields.io/badge/Technical_Simulation-334155?style=flat-square" alt="Technical Simulation" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akifitu&hide_border=true&background=FFFFFF&ring=0f766e&fire=0f766e&currStreakLabel=0f766e&sideLabels=334155&currStreakNum=0f172a&sideNums=0f172a&dates=64748b" alt="GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akifitu&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
-</p>
+<br />
 
 <table>
   <tr>
@@ -31,18 +24,14 @@
       <img src="https://github-readme-stats.vercel.app/api?username=akifitu&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifitu&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifitu&layout=compact&langs_count=6&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifitu&bg_color=ffffff&color=334155&line=0f766e&point=0f766e&area=true&hide_border=true" alt="GitHub activity graph" />
-</p>
+<br />
 
-## Showcase
-
-<p align="center"><sub>Open any card to jump into the repository.</sub></p>
+## Selected Work
 
 <table>
   <tr>
@@ -52,15 +41,15 @@
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/akifitu/verification-readiness-dashboard">
-        <img src="https://raw.githubusercontent.com/akifitu/verification-readiness-dashboard/main/docs/assets/cover.svg" alt="Verification Readiness Dashboard" />
+      <a href="https://github.com/akifitu/embedded-systems-collection">
+        <img src="https://raw.githubusercontent.com/akifitu/embedded-systems-collection/main/docs/assets/cover.svg" alt="Embedded Systems Collection" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/akifitu/embedded-systems-collection">
-        <img src="https://raw.githubusercontent.com/akifitu/embedded-systems-collection/main/docs/assets/cover.svg" alt="Embedded Systems Collection" />
+      <a href="https://github.com/akifitu/verification-readiness-dashboard">
+        <img src="https://raw.githubusercontent.com/akifitu/verification-readiness-dashboard/main/docs/assets/cover.svg" alt="Verification Readiness Dashboard" />
       </a>
     </td>
     <td width="50%">
@@ -69,27 +58,23 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/akifitu/guidance-algorithm">
-        <img src="https://raw.githubusercontent.com/akifitu/guidance-algorithm/main/docs/assets/cover.svg" alt="Guidance Algorithm Simulator" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/akifitu/target-tracking-system">
-        <img src="https://raw.githubusercontent.com/akifitu/target-tracking-system/main/docs/assets/cover.svg" alt="Target Tracking System" />
-      </a>
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  Additional simulation work:
+  <a href="https://github.com/akifitu/guidance-algorithm">guidance-algorithm</a>
+  •
+  <a href="https://github.com/akifitu/target-tracking-system">target-tracking-system</a>
+</p>
+
+<br />
 
 ## About
 
 <details open>
 <summary><strong>English</strong></summary>
 
-- I build portfolio-grade repositories around systems engineering, embedded software, and technical simulation.
-- The flagship work here focuses on traceability, verification readiness, host-buildable firmware, RTOS scheduling, missile guidance, and target tracking.
+- The main focus of this profile is systems engineering, embedded software, and technical simulation.
 - Most defense-style scenarios are fictional and used to demonstrate engineering workflow, architecture reasoning, and technical communication quality.
 
 </details>
@@ -97,41 +82,24 @@
 <details>
 <summary><strong>Turkce</strong></summary>
 
-- Bu profilde sistem muhendisligi, embedded yazilim ve teknik simulasyon odakli portfoy reposu yayinliyorum.
-- Ana vitrinde izlenebilirlik, verification readiness, host-buildable firmware, RTOS zamanlama, guidance ve target tracking projeleri var.
-- Savunma tarzindaki senaryolarin buyuk kismi kurgusal; amac muhendislik dusuncesini, mimariyi ve teknik anlatim kalitesini gostermek.
+- Bu profilin ana odagi sistem muhendisligi, embedded yazilim ve teknik simulasyon calismalari.
+- Savunma tarzindaki senaryolarin cogu kurgusal; amac muhendislik yaklasimini, mimari dusunceyi ve teknik anlatimi gostermek.
 
 </details>
 
+<br />
+
 ## Focus Areas
 
-| Track | What I build |
+| Area | Focus |
 | --- | --- |
-| Systems Engineering | Requirements, traceability, interface control, risk linkage, verification readiness |
-| Embedded Systems | Host-buildable firmware projects in C with BMS, OTA bootloader, CAN, diagnostics, control logic |
-| Technical Simulation | RTOS behavior, guidance laws, target tracking, RF link analysis, network degradation studies |
+| Systems Engineering | Requirements, traceability, interfaces, verification readiness |
+| Embedded Systems | Host-buildable firmware, control logic, diagnostics, safety behavior |
+| Simulation | RTOS scheduling, guidance laws, target tracking, RF and network analysis |
 
-## Languages In This Codebase
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,git,githubactions,linux,nodejs,react,nextjs,docker&perline=12" alt="Languages and tools" />
-</p>
-
-## Featured Repositories
-
-The six flagship repositories above now use a shared visual system: custom cover art, premium README intros, and repo-specific demo assets.
-
-## Repository Map
+## Repository Groups
 
 <details>
 <summary><strong>Systems Engineering and MBSE</strong></summary>
@@ -163,41 +131,3 @@ The six flagship repositories above now use a shared visual system: custom cover
 - [comm-link-budget](https://github.com/akifitu/comm-link-budget)
 
 </details>
-
-<details>
-<summary><strong>Product and Tooling Experiments</strong></summary>
-
-- [netsentinel](https://github.com/akifitu/netsentinel)
-- [syswatch](https://github.com/akifitu/syswatch)
-- [ai-news-summarizer](https://github.com/akifitu/ai-news-summarizer)
-- [raycast-note-extension](https://github.com/akifitu/raycast-note-extension)
-- [basic-weekly-planner](https://github.com/akifitu/basic-weekly-planner)
-
-</details>
-
-## Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akifitu/akifitu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akifitu/akifitu/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/akifitu/akifitu/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center"><sub>Generated automatically via GitHub Actions.</sub></p>
-
-## Repository Standard
-
-1. Clear one-line value proposition
-2. Repository or system map that explains structure quickly
-3. Reproducible quick start with observable output
-4. Tests and CI so the repo reads like engineering work
-5. Short design notes that explain portfolio relevance
-
-Reusable template: [REPOSITORY_TEMPLATE.md](./REPOSITORY_TEMPLATE.md)
-
-## Notes
-
-- Most defense-oriented scenarios here are fictional portfolio exercises used to demonstrate engineering workflow and technical reasoning.
-- New repositories are being standardized around the same structure and writing style for a cleaner profile experience.
