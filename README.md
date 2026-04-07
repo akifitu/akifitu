@@ -1,4 +1,4 @@
-<h1 align="center">Akif T.</h1>
+<h1 align="center">Akif Kaya</h1>
 <p align="center"><strong>Systems Engineering • Embedded Software • Defense-Style Simulation</strong></p>
 <p align="center">
   Building portfolio-grade repositories around traceability, verification readiness,
