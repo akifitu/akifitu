@@ -1,33 +1,25 @@
-<svg width="1280" height="280" viewBox="0 0 1280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="68" y1="34" x2="1214" y2="252" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="78" y1="34" x2="1210" y2="214" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0F172A"/>
-      <stop offset="0.64" stop-color="#103737"/>
+      <stop offset="0.62" stop-color="#123636"/>
       <stop offset="1" stop-color="#1E293B"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1038 70) rotate(90) scale(138 230)">
-      <stop stop-color="#14B8A6" stop-opacity="0.22"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1044 66) rotate(90) scale(120 224)">
+      <stop stop-color="#14B8A6" stop-opacity="0.18"/>
       <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" stroke="#FFFFFF" stroke-opacity="0.035"/>
-    </pattern>
   </defs>
 
-  <rect width="1280" height="280" rx="28" fill="url(#bg)"/>
-  <rect width="1280" height="280" rx="28" fill="url(#grid)"/>
-  <ellipse cx="1038" cy="70" rx="230" ry="138" fill="url(#glow)"/>
+  <rect width="1280" height="240" rx="28" fill="url(#bg)"/>
+  <ellipse cx="1044" cy="66" rx="224" ry="120" fill="url(#glow)"/>
 
-  <text x="84" y="94" fill="#CBD5E1" font-size="20" font-weight="600" font-family="Segoe UI, Arial, sans-serif">AKIF KAYA</text>
-  <text x="84" y="148" fill="#FFFFFF" font-size="50" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Systems Engineering</text>
-  <text x="84" y="198" fill="#FFFFFF" font-size="50" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Embedded Software</text>
-  <text x="84" y="238" fill="#CBD5E1" font-size="20" font-weight="500" font-family="Segoe UI, Arial, sans-serif">Traceability  /  Verification  /  RTOS  /  Guidance  /  Tracking</text>
+  <text x="84" y="86" fill="#CBD5E1" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">AKIF KAYA</text>
+  <text x="84" y="138" fill="#FFFFFF" font-size="48" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Systems Engineering</text>
+  <text x="84" y="186" fill="#FFFFFF" font-size="48" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Embedded Software</text>
 
-  <line x1="864" y1="78" x2="1168" y2="78" stroke="#14B8A6" stroke-opacity="0.5" stroke-width="3" stroke-linecap="round"/>
-  <line x1="908" y1="140" x2="1168" y2="140" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="3" stroke-linecap="round"/>
-  <line x1="954" y1="202" x2="1168" y2="202" stroke="#60A5FA" stroke-opacity="0.4" stroke-width="3" stroke-linecap="round"/>
-
-  <text x="914" y="110" fill="#E2E8F0" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Portfolio Repositories</text>
-  <text x="958" y="172" fill="#E2E8F0" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Host-Buildable Firmware</text>
-  <text x="1004" y="234" fill="#E2E8F0" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Technical Simulation</text>
+  <line x1="930" y1="84" x2="1162" y2="84" stroke="#14B8A6" stroke-opacity="0.46" stroke-width="3" stroke-linecap="round"/>
+  <line x1="978" y1="154" x2="1162" y2="154" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3" stroke-linecap="round"/>
+  <text x="956" y="114" fill="#E2E8F0" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Portfolio Repositories</text>
+  <text x="1000" y="184" fill="#E2E8F0" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Technical Simulation</text>
 </svg>
