@@ -2,7 +2,7 @@
 <p align="center"><strong>Systems Engineering • Embedded Software • Defense-Style Simulation</strong></p>
 
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Akif T. profile header" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Akif Kaya profile header" width="100%" />
 </p>
 
 <p align="center">
