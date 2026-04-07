@@ -21,6 +21,10 @@
   <img src="https://streak-stats.demolab.com?user=akifitu&hide_border=true&background=FFFFFF&ring=0f766e&fire=0f766e&currStreakLabel=0f766e&sideLabels=334155&currStreakNum=0f172a&sideNums=0f172a&dates=64748b" alt="GitHub streak stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akifitu&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub trophies" />
+</p>
+
 <table>
   <tr>
     <td width="50%">
@@ -54,6 +58,10 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,py,ts,js,html,git,githubactions,linux,nodejs,react,nextjs,docker&perline=12" alt="Languages and tools" />
 </p>
 
 ## Featured Repositories
@@ -110,6 +118,18 @@
 - [basic-weekly-planner](https://github.com/akifitu/basic-weekly-planner)
 
 </details>
+
+## Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akifitu/akifitu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akifitu/akifitu/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/akifitu/akifitu/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center"><sub>Generated automatically via GitHub Actions.</sub></p>
 
 ## Repository Standard
 
