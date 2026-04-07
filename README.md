@@ -40,7 +40,70 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akifitu&bg_color=ffffff&color=334155&line=0f766e&point=0f766e&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## Profile Focus
+## Showcase
+
+<p align="center"><sub>Open any card to jump into the repository.</sub></p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/akifitu/systems-engineering-traceability-lab">
+        <img src="https://raw.githubusercontent.com/akifitu/systems-engineering-traceability-lab/main/docs/assets/cover.svg" alt="Systems Engineering Traceability Lab" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/akifitu/verification-readiness-dashboard">
+        <img src="https://raw.githubusercontent.com/akifitu/verification-readiness-dashboard/main/docs/assets/cover.svg" alt="Verification Readiness Dashboard" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/akifitu/embedded-systems-collection">
+        <img src="https://raw.githubusercontent.com/akifitu/embedded-systems-collection/main/docs/assets/cover.svg" alt="Embedded Systems Collection" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/akifitu/embedded-rtos-sim">
+        <img src="https://raw.githubusercontent.com/akifitu/embedded-rtos-sim/main/docs/assets/cover.svg" alt="Embedded RTOS Sim" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/akifitu/guidance-algorithm">
+        <img src="https://raw.githubusercontent.com/akifitu/guidance-algorithm/main/docs/assets/cover.svg" alt="Guidance Algorithm Simulator" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/akifitu/target-tracking-system">
+        <img src="https://raw.githubusercontent.com/akifitu/target-tracking-system/main/docs/assets/cover.svg" alt="Target Tracking System" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## About
+
+<details open>
+<summary><strong>English</strong></summary>
+
+- I build portfolio-grade repositories around systems engineering, embedded software, and technical simulation.
+- The flagship work here focuses on traceability, verification readiness, host-buildable firmware, RTOS scheduling, missile guidance, and target tracking.
+- Most defense-style scenarios are fictional and used to demonstrate engineering workflow, architecture reasoning, and technical communication quality.
+
+</details>
+
+<details>
+<summary><strong>Turkce</strong></summary>
+
+- Bu profilde sistem muhendisligi, embedded yazilim ve teknik simulasyon odakli portfoy reposu yayinliyorum.
+- Ana vitrinde izlenebilirlik, verification readiness, host-buildable firmware, RTOS zamanlama, guidance ve target tracking projeleri var.
+- Savunma tarzindaki senaryolarin buyuk kismi kurgusal; amac muhendislik dusuncesini, mimariyi ve teknik anlatim kalitesini gostermek.
+
+</details>
+
+## Focus Areas
 
 | Track | What I build |
 | --- | --- |
@@ -66,14 +129,7 @@
 
 ## Featured Repositories
 
-| Repository | Area | Why it matters |
-| --- | --- | --- |
-| [systems-engineering-traceability-lab](https://github.com/akifitu/systems-engineering-traceability-lab) | Systems Engineering | End-to-end traceability, interface checks, risk linkage, and audit-ready outputs |
-| [verification-readiness-dashboard](https://github.com/akifitu/verification-readiness-dashboard) | Verification | Static dashboard for requirement closure, evidence state, and blocked work |
-| [embedded-systems-collection](https://github.com/akifitu/embedded-systems-collection) | Embedded | Host-buildable C portfolio with BMS, OTA bootloader, CAN, diagnostics, and control logic |
-| [embedded-rtos-sim](https://github.com/akifitu/embedded-rtos-sim) | Real-Time Systems | Preemptive scheduler, semaphores, queues, and defense-style task scenarios |
-| [guidance-algorithm](https://github.com/akifitu/guidance-algorithm) | Guidance | Pure Pursuit, PN, APN, and CLOS missile guidance simulation |
-| [target-tracking-system](https://github.com/akifitu/target-tracking-system) | Tracking | Multi-target tracking with Kalman filters, gating, and Hungarian association |
+The six flagship repositories above now use a shared visual system: custom cover art, premium README intros, and repo-specific demo assets.
 
 ## Repository Map
 
