@@ -10,6 +10,10 @@
   host-buildable firmware, RTOS behavior, guidance, and tracking.
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifitu&layout=compact&langs_count=6&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" width="42%" />
+</p>
+
 <br />
 
 ## Selected
