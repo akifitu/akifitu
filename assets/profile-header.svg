@@ -1,25 +1,59 @@
-<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="280" viewBox="0 0 1280 280" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="78" y1="34" x2="1210" y2="214" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0F172A"/>
-      <stop offset="0.62" stop-color="#123636"/>
-      <stop offset="1" stop-color="#1E293B"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#0B3B3B"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1044 66) rotate(90) scale(120 224)">
-      <stop stop-color="#14B8A6" stop-opacity="0.18"/>
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 80) rotate(90) scale(160 300)">
+      <stop stop-color="#14B8A6" stop-opacity="0.32"/>
       <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(200 240) rotate(0) scale(220 180)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="84" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
   </defs>
 
-  <rect width="1280" height="240" rx="28" fill="url(#bg)"/>
-  <ellipse cx="1044" cy="66" rx="224" ry="120" fill="url(#glow)"/>
+  <rect width="1280" height="280" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="280" rx="28" fill="url(#grid)"/>
+  <ellipse cx="1080" cy="80" rx="300" ry="160" fill="url(#glow1)"/>
+  <ellipse cx="200" cy="240" rx="220" ry="180" fill="url(#glow2)"/>
 
-  <text x="84" y="86" fill="#CBD5E1" font-size="18" font-weight="600" font-family="Segoe UI, Arial, sans-serif">AKIF KAYA</text>
-  <text x="84" y="138" fill="#FFFFFF" font-size="48" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Systems Engineering</text>
-  <text x="84" y="186" fill="#FFFFFF" font-size="48" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Embedded Software</text>
+  <rect x="84" y="58" width="6" height="28" rx="3" fill="url(#accent)"/>
+  <text x="104" y="80" fill="#94A3B8" font-size="16" font-weight="600" letter-spacing="3" font-family="Segoe UI, Arial, sans-serif">MUHAMMED AKIF KAYA</text>
 
-  <line x1="930" y1="84" x2="1162" y2="84" stroke="#14B8A6" stroke-opacity="0.46" stroke-width="3" stroke-linecap="round"/>
-  <line x1="978" y1="154" x2="1162" y2="154" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="3" stroke-linecap="round"/>
-  <text x="956" y="114" fill="#E2E8F0" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Portfolio Repositories</text>
-  <text x="1000" y="184" fill="#E2E8F0" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Technical Simulation</text>
+  <text x="84" y="142" fill="#FFFFFF" font-size="52" font-weight="800" font-family="Segoe UI, Arial, sans-serif">Systems Engineering</text>
+  <text x="84" y="196" fill="#FFFFFF" font-size="52" font-weight="800" font-family="Segoe UI, Arial, sans-serif">&amp; Embedded Software</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">
+    <rect x="84" y="222" width="132" height="32" rx="16" fill="#0F172A" stroke="#14B8A6" stroke-opacity="0.6"/>
+    <text x="150" y="242" text-anchor="middle">Traceability</text>
+    <rect x="228" y="222" width="128" height="32" rx="16" fill="#0F172A" stroke="#14B8A6" stroke-opacity="0.6"/>
+    <text x="292" y="242" text-anchor="middle">Verification</text>
+    <rect x="368" y="222" width="120" height="32" rx="16" fill="#0F172A" stroke="#14B8A6" stroke-opacity="0.6"/>
+    <text x="428" y="242" text-anchor="middle">Firmware</text>
+    <rect x="500" y="222" width="102" height="32" rx="16" fill="#0F172A" stroke="#14B8A6" stroke-opacity="0.6"/>
+    <text x="551" y="242" text-anchor="middle">RTOS</text>
+    <rect x="614" y="222" width="124" height="32" rx="16" fill="#0F172A" stroke="#14B8A6" stroke-opacity="0.6"/>
+    <text x="676" y="242" text-anchor="middle">Simulation</text>
+  </g>
+
+  <g transform="translate(940 78)" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#CBD5E1">
+    <rect x="0" y="0" width="256" height="118" rx="12" fill="#020617" fill-opacity="0.55" stroke="#14B8A6" stroke-opacity="0.28"/>
+    <circle cx="16" cy="18" r="5" fill="#EF4444"/>
+    <circle cx="32" cy="18" r="5" fill="#F59E0B"/>
+    <circle cx="48" cy="18" r="5" fill="#22C55E"/>
+    <text x="16" y="48" fill="#22D3EE">$ whoami</text>
+    <text x="16" y="68" fill="#E2E8F0">akif.kaya</text>
+    <text x="16" y="90" fill="#22D3EE">$ role --show</text>
+    <text x="16" y="108" fill="#E2E8F0">systems · embedded · sim</text>
+  </g>
 </svg>
