@@ -19,6 +19,9 @@
   <a href="https://github.com/akifitu">
     <img src="https://img.shields.io/github/followers/akifitu?style=for-the-badge&label=Followers&labelColor=0F172A&color=14B8A6&logo=github&logoColor=white" alt="Followers" />
   </a>
+  <a href="https://akifkaya.netlify.app">
+    <img src="https://img.shields.io/badge/Website-akifkaya.netlify.app-0F172A?style=for-the-badge&labelColor=14B8A6&logo=netlify&logoColor=white" alt="Website" />
+  </a>
   <a href="mailto:makif4001@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-0F172A?style=for-the-badge&labelColor=0EA5E9&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -162,6 +165,9 @@
 ## Connect
 
 <p>
+  <a href="https://akifkaya.netlify.app">
+    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="mailto:makif4001@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
